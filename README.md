@@ -1,2 +1,2 @@
-# SuanLiang
-算量
+# 算量
+[给排水](/pages/%E7%BB%99%E6%8E%92%E6%B0%B4/1.md)
